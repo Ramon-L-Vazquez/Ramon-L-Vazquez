@@ -6,7 +6,7 @@
 <!-- DYNAMIC TYPING SVG -->
 <div align="center">
   <a href="https://github.com/Vazquez-Ramon">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=3182CE&center=true&vCenter=true&random=false&width=700&height=45&lines=%3C%2F%3E+B.S.+Software+Engineering+Candidate;%F0%9F%8F%85+WGU+Excellence+Award+Recipient;%E2%9A%A1+Enterprise+Data+Center+Technician+%40+Microsoft;%E2%98%81%EF%B8%8F+Google+Cloud+Data+Analytics+Certified;%F0%9F%9A%80+Building+High-Throughput+%26+Resilient+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=3182CE&center=true&vCenter=true&random=false&width=700&height=45&lines=%3C%2F%3E+B.S.+Software+Engineering+Candidate;%E2%9A%A1+Enterprise+Data+Center+Technician+%40+Microsoft;%E2%98%81%EF%B8%8F+Google+Cloud+Data+Analytics+Certified;%F0%9F%9A%80+Building+High-Throughput+%26+Resilient+Systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -44,7 +44,6 @@
 {
   <span style="color: #7ee787;">"candidate"</span>: <span style="color: #a5d6ff;">"Ramon Vazquez"</span>,
   <span style="color: #7ee787;">"degree"</span>: <span style="color: #a5d6ff;">"B.S. Software Engineering @ WGU"</span>,
-  <span style="color: #7ee787;">"honors"</span>: [<span style="color: #a5d6ff;">"WGU Excellence Award (Version Control)"</span>, <span style="color: #a5d6ff;">"3x Vice President's List"</span>, <span style="color: #a5d6ff;">"1x President's List"</span>],
   <span style="color: #7ee787;">"core_disciplines"</span>: [<span style="color: #a5d6ff;">"Full-Stack Dev"</span>, <span style="color: #a5d6ff;">"Cloud Systems"</span>, <span style="color: #a5d6ff;">"Low-Level Hardware Diagnostics"</span>],
   <span style="color: #7ee787;">"certifications"</span>: [<span style="color: #a5d6ff;">"Google Cloud Data Analytics"</span>, <span style="color: #a5d6ff;">"ASE A1"</span>],
   <span style="color: #7ee787;">"sla_compliance"</span>: <span style="color: #a5d6ff;">"100% (Microsoft Enterprise DC Support)"</span>,
@@ -54,22 +53,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<br />
-
----
-
-### 🏆 HONORS & ACADEMIC ACHIEVEMENTS
-
-<div align="center">
-
-| Award / Distinction | Institution | Context & Highlights |
-| :--- | :--- | :--- |
-| **🏆 WGU Excellence Award** | Western Governors University | Awarded for exceptional project submission and mastery in **Version Control & Git Lifecycle Management** |
-| **🥇 Vice President's List** | Academic Honors | Recognized **3x** for sustained academic excellence and high GPA performance |
-| **🥇 President's List** | Academic Honors | Recognized **1x** for top-tier academic distinction |
-
 </div>
 
 <br />
@@ -102,7 +85,6 @@
 public class SoftwareDeveloper {
     private String name = "Ramon Vazquez";
     private String[] languages = {"Java", "C#", "SQL", "JavaScript"};
-    private boolean wguExcellenceAward = true; // Awarded for Version Control
     
     public void executeMission() {
         System.out.println("Building robust, object-oriented applications with strict version control.");
