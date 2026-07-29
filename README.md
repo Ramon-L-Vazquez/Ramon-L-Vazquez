@@ -33,78 +33,11 @@
 
 <br />
 
-<!-- TERMINAL / SYSTEM ARCHITECTURE BLOCK -->
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
-        <pre font-family="monospace" style="color: #58a6ff; margin: 0;">
-┌──(ramonexec)-[~/profile]
-└─$ cat core_specifications.json
-{
-  <span style="color: #7ee787;">"candidate"</span>: <span style="color: #a5d6ff;">"Ramon Vazquez"</span>,
-  <span style="color: #7ee787;">"degree"</span>: <span style="color: #a5d6ff;">"B.S. Software Engineering @ WGU"</span>,
-  <span style="color: #7ee787;">"honors"</span>: [<span style="color: #a5d6ff;">"WGU Excellence Award (Version Control)"</span>, <span style="color: #a5d6ff;">"3x Vice President's List"</span>, <span style="color: #a5d6ff;">"1x President's List"</span>],
-  <span style="color: #7ee787;">"core_disciplines"</span>: [<span style="color: #a5d6ff;">"Full-Stack Dev"</span>, <span style="color: #a5d6ff;">"Cloud Systems"</span>, <span style="color: #a5d6ff;">"Low-Level Hardware Diagnostics"</span>],
-  <span style="color: #7ee787;">"certifications"</span>: [<span style="color: #a5d6ff;">"Google Cloud Data Analytics"</span>, <span style="color: #a5d6ff;">"ASE A1"</span>],
-  <span style="color: #7ee787;">"sla_compliance"</span>: <span style="color: #a5d6ff;">"100% (Microsoft Enterprise DC Support)"</span>,
-  <span style="color: #7ee787;">"throughput_impact"</span>: <span style="color: #a5d6ff;">"+18% Operational Efficiency"</span>
-}
-        </pre>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
----
-
-### 🏆 HONORS & ACADEMIC ACHIEVEMENTS
-
-<div align="center">
-
-| Award / Distinction | Institution | Context & Highlights |
-| :--- | :--- | :--- |
-| **🏆 WGU Excellence Award** | Western Governors University | Awarded for exceptional project submission and mastery in **Version Control & Git Lifecycle Management** |
-| **🥇 Vice President's List** | Academic Honors | Recognized **3x** for sustained academic excellence and high GPA performance |
-| **🥇 President's List** | Academic Honors | Recognized **1x** for top-tier academic distinction |
-
-</div>
-
-<br />
-
----
-
-### 💻 3D TECH STACK & ECOSYSTEM
-
-<div align="center">
-
-| Category | Badges & Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> |
-| **Cloud & Analytics** | <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Relational_DBs-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Modeling-008080?style=for-the-badge&logo=google-analytics&logoColor=white" /> |
-| **DevOps & Infrastructure** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Hardware_Diagnostics-1A365D?style=for-the-badge&logo=intel&logoColor=white" /> |
-
-</div>
-
-<br />
-
----
-
-### ⚡ INTERACTIVE CAREER & TECHNICAL DROPDOWNS
-
-<details>
-<summary><b>🔹 💻 SOFTWARE ENGINEERING & FULL-STACK DEVELOPMENT</b></summary>
-<br>
-
-```java
-public class SoftwareDeveloper {
-    private String name = "Ramon Vazquez";
-    private String[] languages = {"Java", "C#", "SQL", "JavaScript"};
-    private boolean wguExcellenceAward = true; // Awarded for Version Control
-    
-    public void executeMission() {
-        System.out.println("Building robust, object-oriented applications with strict version control.");
-    }
-}
+<!-- ARCHITECTURE YAML BLOCK -->
+```yaml
+Architect: Ramon Vazquez
+Education: B.S. Software Engineering @ WGU
+Honors: [WGU Excellence Award (Version Control), 3x Vice President's List, 1x President's List]
+Certifications: [Google Cloud Data Analytics, ASE A1]
+Focus Areas: [Full-Stack Development, Cloud Systems, Enterprise Infrastructure]
+Core Ethos: "Bridging physical systems, cloud infrastructure, and modern software design."
