@@ -58,6 +58,14 @@
 
 <br />
 
+<!-- ARCHITECTURE YAML BLOCK -->
+```yaml
+Architect: Ramon Vazquez
+Education: B.S. Software Engineering @ WGU
+Honors: [WGU Excellence Award (Version Control), 3x Vice President's List, 1x President's List]
+Certifications: [Google Cloud Data Analytics, ASE A1]
+Focus Areas: [Full-Stack Development, Cloud Systems, Enterprise Infrastructure]
+Core Ethos: "Bridging physical systems, cloud infrastructure, and modern software design."
 ---
 
 ### 🏆 HONORS & ACADEMIC ACHIEVEMENTS
