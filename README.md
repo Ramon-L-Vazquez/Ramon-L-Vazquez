@@ -1,116 +1,132 @@
+<div align="center">
+
 # Ramon Vazquez
 
-**Software Engineering | Full-Stack Development | AI & Data Systems | Cloud & Enterprise Infrastructure**
+### Software Developer • AI Systems • Full Stack Engineering
 
-I build software that connects application logic, data, cloud services, AI, and real-world systems. My background combines formal software development education with enterprise infrastructure, hardware diagnostics, and cloud data analytics — a foundation I use to build systems that are reliable, testable, and designed beyond the demo stage.
+**Turning ideas into working architecture.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramon%20Vazquez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rvazqu21/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ramon--L--Vazquez-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ramon-L-Vazquez)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Data%20Analytics-4285F4?style=flat&logo=googlecloud&logoColor=white)](#credentials)
+`DESIGN → BUILD → TEST → SHIP`
 
-## At a Glance
+<br>
 
-<div align="center">
-<table>
-  <tr>
-    <td><strong>🎓 Associate Degree</strong></td>
-    <td>IT Web &amp; Software Development — <strong>December 2025</strong></td>
-  </tr>
-  <tr>
-    <td><strong>📚 Bachelor's</strong></td>
-    <td>B.S. Software Engineering candidate — <strong>Western Governors University</strong></td>
-  </tr>
-  <tr>
-    <td><strong>🏆 Academic Recognition</strong></td>
-    <td><strong>WGU Excellence Award — Version Control</strong></td>
-  </tr>
-  <tr>
-    <td><strong>🥇 Honors</strong></td>
-    <td><strong>Vice President’s List 3×</strong> · <strong>President’s List 1×</strong></td>
-  </tr>
-  <tr>
-    <td><strong>🚀 Flagship Project</strong></td>
-    <td><strong>Howlsy</strong> — full-stack AI project assistant and knowledge platform</td>
-  </tr>
-  <tr>
-    <td><strong>☁️ Cloud / Data</strong></td>
-    <td>Google Cloud Data Analytics · BigQuery · SQL · relational modeling</td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Ramon_Vazquez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rvazqu21/)
+[![GitHub](https://img.shields.io/badge/GitHub_Ramon_Vazquez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramon-L-Vazquez)
+
 </div>
 
-## Featured Engineering Project
+<br>
 
-### [Howlsy — Guided AI Project Assistant](https://github.com/Ramon-L-Vazquez/howlsy)
-
-Howlsy turns a user's goal and intake details into a structured project, relevant resources, and guided step-by-step execution. What started as an AI-assisted workflow has grown into a broader engineering system focused on **reliable data, evidence, validation, and production readiness**.
-
-**Engineering highlights:**
-
-- **Next.js + TypeScript + React** application architecture
-- **Supabase** authentication, persistence, and storage
-- **OpenAI-backed generation** integrated with database-first knowledge retrieval
-- Manufacturer/model catalog ingestion and normalized product data
-- Evidence-qualified knowledge with **source provenance and rights controls**
-- Exact-model protections for parts, diagrams, and fitment-sensitive information
-- Resumable acquisition workflows with retry/backoff behavior
-- Regression testing, deterministic validation, release gates, smoke tests, and production runbooks
-
-I build Howlsy through **feature branches, issue-linked work, focused commits, pull requests, regression tests, and production checks** before integration into `main`.
-
-## Technical Stack
+## What I Build
 
 <div align="center">
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>TypeScript, JavaScript, Java, C#, SQL, HTML, CSS</td>
-  </tr>
-  <tr>
-    <td><strong>Web / Application</strong></td>
-    <td>Next.js, React, Node.js</td>
-  </tr>
-  <tr>
-    <td><strong>Data / Backend</strong></td>
-    <td>Supabase, PostgreSQL, SQLite, relational data modeling</td>
-  </tr>
-  <tr>
-    <td><strong>AI / Knowledge Systems</strong></td>
-    <td>OpenAI APIs, structured retrieval, provenance, validation workflows</td>
-  </tr>
-  <tr>
-    <td><strong>Cloud / Analytics</strong></td>
-    <td>Google Cloud, BigQuery, cloud data analytics</td>
-  </tr>
-  <tr>
-    <td><strong>Engineering Workflow</strong></td>
-    <td>Git, GitHub, feature branches, pull requests, issue tracking, CI/release validation</td>
-  </tr>
-  <tr>
-    <td><strong>Systems</strong></td>
-    <td>Linux CLI, enterprise hardware diagnostics, data center operations, fiber/copper infrastructure</td>
-  </tr>
-</table>
+
+**AI Systems** • **Full Stack Applications** • **Data Platforms** • **Cloud Systems** • **Engineering Automation**
+
 </div>
 
-## Engineering Profile
+I build software where application logic, data, cloud services, AI, and real world systems meet. My background spans software development, enterprise infrastructure, hardware diagnostics, data center operations, and cloud analytics. That gives me a systems level view of software from the interface all the way down to the infrastructure supporting it.
 
-My software work is informed by hands-on systems experience. I have worked close to the infrastructure software ultimately depends on — enterprise hardware, diagnostics, data center operations, networking infrastructure, and technical support — and I bring that systems mindset into application engineering.
+My focus is software that is **reliable, testable, maintainable, observable, and useful beyond the demo stage**.
 
-I am especially interested in software that has to be **correct, maintainable, observable, and useful outside of a demo environment**.
+<br>
 
-## Education & Credentials
+## Featured Engineering
 
-- **B.S. Software Engineering candidate — Western Governors University**
-- **Associate Degree — IT Web & Software Development — December 2025**
-- **WGU Excellence Award — Version Control**
-- **Vice President’s List — 3×**
-- **President’s List — 1×**
-- **Google Cloud Data Analytics Professional Certificate**
-- **ASE A1 Engine Repair Certification**
+### Howlsy
 
-## Professional Direction
+**AI powered project assistant and knowledge platform**
 
-I am continuing to build full-stack, AI-enabled, cloud-backed, and data-driven systems while growing a portfolio that shows not only finished features, but **how I solve problems, validate assumptions, fix failures, protect data quality, and prepare software for production**.
+Howlsy turns a user goal and intake details into a structured project, relevant resources, and guided execution. The system is being built around reliable knowledge retrieval, evidence quality, validation, and production readiness rather than generation alone.
 
-**Open to software engineering, full-stack, backend, QA/automation, AI application, and data-focused opportunities.**
+**Core engineering work**
+
+• Next.js, React, and TypeScript application architecture  
+• Supabase authentication, persistence, and storage  
+• OpenAI integration with database first knowledge retrieval  
+• Manufacturer and model catalog ingestion  
+• Structured provenance and source controls  
+• Exact model protections for parts, diagrams, and fitment sensitive information  
+• Resumable acquisition workflows with retry behavior  
+• Regression testing and deterministic validation  
+• Release gates, smoke testing, and production runbooks  
+• GitHub issue driven development with focused commits and pull requests
+
+<div align="center">
+
+**Current build philosophy**
+
+`RESEARCH → ARCHITECT → IMPLEMENT → VALIDATE → SHIP`
+
+</div>
+
+<br>
+
+## Engineering Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,java,cs,html,css,postgres,supabase,gcp,git,github" alt="Engineering stack" />
+
+<br><br>
+
+**TypeScript • JavaScript • Java • C# • SQL • HTML • CSS**
+
+**Next.js • React • Node.js • Supabase • PostgreSQL • Google Cloud • BigQuery**
+
+**Git • GitHub • Linux • Relational Data Modeling • AI Knowledge Systems**
+
+</div>
+
+<br>
+
+## Systems Mindset
+
+Software does not exist in isolation. My experience with enterprise hardware, diagnostics, data center operations, networking infrastructure, and technical support shapes how I approach engineering.
+
+I care about what happens after a feature works once.
+
+**Can it fail safely?**  
+**Can it be tested?**  
+**Can another developer understand it?**  
+**Can the data be trusted?**  
+**Can it survive production?**
+
+That is the standard I build toward.
+
+<br>
+
+## Education and Credentials
+
+<div align="center">
+
+**B.S. Software Engineering Candidate**  
+Western Governors University
+
+**Associate Degree in IT Web and Software Development**  
+Graduated December 2025
+
+**WGU Excellence Award**  
+Version Control
+
+**Vice President's List 3× • President's List 1×**
+
+**Google Cloud Data Analytics Professional Certificate**
+
+**ASE A1 Engine Repair Certification**
+
+</div>
+
+<br>
+
+## Current Focus
+
+I am continuing to build AI enabled, cloud backed, data driven software while strengthening a portfolio that demonstrates the entire engineering process, not only finished interfaces.
+
+<div align="center">
+
+### Build with purpose. Validate everything. Ship what works.
+
+**Software Engineering • Full Stack Development • AI Applications • Data Systems • QA Automation**
+
+</div>
