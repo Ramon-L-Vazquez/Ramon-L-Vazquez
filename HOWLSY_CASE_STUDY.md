@@ -2,6 +2,8 @@
 
 > Public technical case study for a private production repository.
 
+**Explore:** [Architecture overview](./HOWLSY_ARCHITECTURE.md) · [Engineering timeline](./HOWLSY_TIMELINE.md) · [Profile](./README.md)
+
 ## Overview
 
 Howlsy is an AI-powered project assistant and knowledge platform designed to turn a user's goal and intake details into a structured project, relevant resources, and guided execution. The production repository remains private, so this case study documents the engineering architecture, development milestones, validation strategy, and technical decisions without exposing proprietary source code or credentials.
@@ -120,9 +122,11 @@ The private repository contains a long-running pull-request-driven development h
 | #91 | Native Android Howlsy shell | Merged | 35 |
 | #93 | StoreKit subscription client foundation | Open | 12 |
 | #94 | Server-owned billing entitlement foundation | Open | 4 |
-| #95 | Shared CSS presentation shell for mobile apps | Open | 71 |
+| #95 | Shared CSS presentation shell for mobile apps | Open | 70+ |
 
 These milestones represent incremental engineering work rather than a single code dump: backend security, platform clients, mobile architecture, billing foundations, testing, and production-readiness work were developed and validated separately.
+
+For the reasoning behind the progression, see the [engineering timeline](./HOWLSY_TIMELINE.md). For the system boundary and component layout, see the [architecture overview](./HOWLSY_ARCHITECTURE.md).
 
 ## Technologies
 
