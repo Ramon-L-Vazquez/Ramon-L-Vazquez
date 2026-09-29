@@ -37,9 +37,9 @@ My focus is software that is **reliable, testable, maintainable, observable, and
 
 **AI powered project assistant and knowledge platform**
 
-Howlsy turns a user goal and intake details into a structured project, relevant resources, and guided execution. The production repository is private, but I maintain a public technical case study documenting the architecture, mobile engineering, security model, testing strategy, and major development milestones.
+Howlsy turns a user goal and intake details into a structured project, relevant resources, and guided execution. The production repository is private, but I maintain a public technical evidence set documenting the architecture, mobile engineering, security model, testing strategy, sanitized implementation patterns, and major development milestones.
 
-### [→ Read the Howlsy Engineering Case Study](./HOWLSY_CASE_STUDY.md)
+### [→ Engineering Evidence](./HOWLSY_ENGINEERING_EVIDENCE.md) · [Case Study](./HOWLSY_CASE_STUDY.md) · [Architecture](./HOWLSY_ARCHITECTURE.md) · [Timeline](./HOWLSY_ENGINEERING_TIMELINE.md) · [Code Patterns](./HOWLSY_ENGINEERING_PATTERNS.md)
 
 **Core engineering work**
 
