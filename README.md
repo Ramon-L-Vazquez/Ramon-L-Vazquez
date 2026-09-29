@@ -2,7 +2,7 @@
 
 # Ramon Vazquez
 
-### Software Developer • AI Systems • Full Stack Engineering
+### Software Developer • AI Systems • Full Stack & Mobile Engineering
 
 **Turning ideas into working architecture.**
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-**AI Systems** • **Full Stack Applications** • **Data Platforms** • **Cloud Systems** • **Engineering Automation**
+**AI Systems** • **Full Stack Applications** • **iOS & Android** • **Data Platforms** • **Cloud Systems** • **Engineering Automation**
 
 </div>
 
@@ -37,20 +37,29 @@ My focus is software that is **reliable, testable, maintainable, observable, and
 
 **AI powered project assistant and knowledge platform**
 
-Howlsy turns a user goal and intake details into a structured project, relevant resources, and guided execution. The system is being built around reliable knowledge retrieval, evidence quality, validation, and production readiness rather than generation alone.
+Howlsy turns a user goal and intake details into a structured project, relevant resources, and guided execution. The production repository is private, but I maintain a public technical case study documenting the architecture, mobile engineering, security model, testing strategy, and major development milestones.
+
+### [→ Read the Howlsy Engineering Case Study](./HOWLSY_CASE_STUDY.md)
 
 **Core engineering work**
 
-• Next.js, React, and TypeScript application architecture  
-• Supabase authentication, persistence, and storage  
-• OpenAI integration with database first knowledge retrieval  
+• Next.js, React, TypeScript, and CSS application architecture  
+• Supabase authentication, persistence, storage, and row-level security  
+• OpenAI integration with database-first knowledge retrieval  
+• Swift / SwiftUI native iOS engineering and StoreKit 2 foundations  
+• Kotlin / Android engineering with emulator validation  
+• WKWebView and Android WebView native-shell architecture  
+• Secure native/web bridge design with origin restrictions  
+• Protected web-cookie and native bearer-token API authentication  
+• Server-owned billing entitlement architecture  
+• Account deletion and privacy-oriented data lifecycle work  
 • Manufacturer and model catalog ingestion  
 • Structured provenance and source controls  
-• Exact model protections for parts, diagrams, and fitment sensitive information  
+• Exact-model protections for parts, diagrams, and fitment-sensitive information  
 • Resumable acquisition workflows with retry behavior  
 • Regression testing and deterministic validation  
-• Release gates, smoke testing, and production runbooks  
-• GitHub issue driven development with focused commits and pull requests
+• GitHub Actions, simulator/emulator testing, release gates, and production runbooks  
+• GitHub issue-driven development with focused commits and pull requests
 
 <div align="center">
 
@@ -66,15 +75,15 @@ Howlsy turns a user goal and intake details into a structured project, relevant 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,java,cs,html,css,postgres,supabase,gcp,git,github" alt="Engineering stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,swift,kotlin,java,cs,html,css,postgres,supabase,gcp,git,github" alt="Engineering stack" />
 
 <br><br>
 
-**TypeScript • JavaScript • Java • C# • SQL • HTML • CSS**
+**TypeScript • JavaScript • Swift • Kotlin • Java • C# • SQL • HTML • CSS**
 
-**Next.js • React • Node.js • Supabase • PostgreSQL • Google Cloud • BigQuery**
+**Next.js • React • Node.js • SwiftUI • Android • Supabase • PostgreSQL • Google Cloud • BigQuery**
 
-**Git • GitHub • Linux • Relational Data Modeling • AI Knowledge Systems**
+**Git • GitHub • GitHub Actions • Linux • Relational Data Modeling • AI Knowledge Systems • CI / Regression Testing**
 
 </div>
 
@@ -127,6 +136,6 @@ I am continuing to build AI enabled, cloud backed, data driven software while st
 
 ### Build with purpose. Validate everything. Ship what works.
 
-**Software Engineering • Full Stack Development • AI Applications • Data Systems • QA Automation**
+**Software Engineering • Full Stack Development • Mobile Engineering • AI Applications • Data Systems • QA Automation**
 
 </div>
